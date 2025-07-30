@@ -1,0 +1,28 @@
+{
+  "moduleInfo": {
+    "moduleName": "WebtoonXYZ",
+    "moduleInitials": "WTX",
+    "moduleDesc": "WebtoonXYZ Reader",
+    "developer": "NesliAI",
+    "moduleID": "20250730",
+    "moduleImage": "https://www.webtoon.xyz/wp-content/uploads/2020/11/cropped-webtoonxyzlogo.png",
+    "moduleVersion": 1.1,
+    "moduleLenguage": "ENG",
+    "changelog": "Added full scraping support: mainPage, search, info, chapters",
+    "moduleType": "Image",
+    "baseURL": "https://www.webtoon.xyz",
+    "moduleDeveloperSite": "https://github.com/NesliAI/KetsuModules",
+    "UpdateSite": "https://raw.githubusercontent.com/NesliAI/KetsuModules/master/Modules/WebtoonXYZ/WebtoonXYZ.json",
+    "preferedServer": "",
+    "preferedDownloadServer": "",
+    "blackListed": [ "" ]
+  },
+  "global": { "variables": [], "cookies": [], "headers": [] },
+  "mainPage": [...],
+  "search": [...],
+  "info": [...],
+  "chapters": [...],
+  "moduleResolvers": [],
+  "responseCodeFunctions": [],
+  "helperFunctions": []
+}
